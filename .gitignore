@@ -1,1 +1,8 @@
 *.pt
+*.pth
+*.h5
+*.hdf5
+*.onnx
+*.pb
+*.weights
+*.ckpt
