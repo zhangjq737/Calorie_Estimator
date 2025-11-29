@@ -6,3 +6,5 @@
 *.pb
 *.weights
 *.ckpt
+**/.ipynb_checkpoints/
+*.jpg
