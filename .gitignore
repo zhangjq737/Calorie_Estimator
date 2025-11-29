@@ -7,4 +7,5 @@
 *.weights
 *.ckpt
 **/.ipynb_checkpoints/
-*.jpg
+.jpg
+.env
