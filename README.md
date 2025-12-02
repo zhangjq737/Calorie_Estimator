@@ -17,6 +17,7 @@ Navigate to project folder then:
 create .env file in root folder and create two variables:
 
 >USDA_API_KEY = "YOUR_USDA_API_KEY"
+
 >USDA_BASE_URL = "https://api.nal.usda.gov/fdc/v1"`
 
 Done!
